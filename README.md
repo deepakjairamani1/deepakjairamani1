@@ -21,6 +21,7 @@ I build infrastructure that doesn't wake people up at 3 AM.
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
+| [**sre-copilot**](https://github.com/deepakjairamani1/sre-copilot) | 🤖 AI-powered incident diagnosis — multi-agent RCA that reduced MTTR by 50% | LangGraph, AWS Bedrock, Prometheus, Loki, Jaeger, React |
 | [**kube-sre-stack**](https://github.com/deepakjairamani1/kube-sre-stack) | Production-ready K8s platform with built-in SRE practices | Terraform, EKS, ArgoCD, Prometheus, Karpenter |
 | **chaos-sre** *(coming soon)* | Lightweight chaos engineering toolkit for Kubernetes | Go, eBPF, K8s client-go |
 | **aws-cost-sentinel** *(coming soon)* | Automated AWS cost intelligence and optimization | Python, CloudWatch, Cost Explorer |
