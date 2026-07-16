@@ -59,11 +59,7 @@ Languages:      Python, Bash, Go (learning)
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakjairamani1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=deepakjairamani1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=deepakjairamani1&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
